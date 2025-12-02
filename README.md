@@ -11,7 +11,7 @@
 - 🌱 **Learning:** Advanced Machine Learning & Deep Learning (TensorFlow, XGBoost)  
 - 🛠️ **Tools I Love:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Power BI  
 - 📫 **Reach Me:** [arshadattari007@gmail.com](mailto:arshadattari007@gmail.com)  
-- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1waVCe23rVF4NjUfGC9gR6Uwktp84qkko/view?usp=drive_link)  
+- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1j9plQU4ERU-vBgbeX5UyHyBHHmtMrHJ4/view?usp=drive_link)  
 
 ---
 
