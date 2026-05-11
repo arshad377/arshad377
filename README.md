@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif)](https://github.com/arshad377)
 <h1 align="center">👋 Hi, I'm Md Arshad Hussain</h1>
-<h3 align="center">Data Science Enthusiast | Building Foundations in ML & Analytics</h3>
+<h3 align="center">Data Analyst | SQL | Power BI | Python | Excel</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F4bGN3Mjd0MGh6YXE4N2k0dTY0YXN0dHB4enpseno2YnZtZ3FsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy_s.gif">
 
@@ -32,7 +32,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Data Science**  
+**Data Analyst**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
